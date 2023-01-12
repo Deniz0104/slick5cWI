@@ -1,4 +1,5 @@
-/testdata
-/.idea
-/lib
-/native
+testdata/
+.idea/
+lib/
+native/
+src/org/*
